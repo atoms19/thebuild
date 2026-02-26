@@ -34,7 +34,7 @@ export default function PhilosophySection() {
                 className="relative w-full max-w-6xl mx-auto h-[400px] md:h-[600px] rounded-t-[2.5rem] overflow-hidden shadow-2xl mx-6"
             >
                 <Image
-                    src="/leadership_talk_2.png"
+                    src="/image.png"
                     alt="Charismatic speaker"
                     fill
                     className="object-cover object-top"

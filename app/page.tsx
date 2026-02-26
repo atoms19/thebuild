@@ -14,7 +14,6 @@ export default function Home() {
     <main className="min-h-screen bg-white selection:bg-zinc-900 selection:text-white">
       <Navbar />
       <MarketingHero />
-
       <CollaboratorsSection />
       <OurFocusSection />
       <DetailedMissionSection />

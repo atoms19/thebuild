@@ -5,9 +5,11 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 
 const images = [
+
+    "/image.png",
     "/leadership_talk_1.png",
     "/leadership_talk_2.png",
-    "/leadership_talk_3.png",
+    "/leader.avif",
     "/leadership_talk_4.png",
 ];
 

@@ -74,7 +74,7 @@ export default function VisionGrid() {
                         >
                             <div className="relative w-full aspect-[4/5] rounded-3xl overflow-hidden mb-6 shadow-sm">
                                 <Image
-                                    src="/leadership_talk_4.png"
+                                    src="/leader.avif"
                                     alt="Strategic Clarity"
                                     fill
                                     className="object-cover transition-transform duration-700 group-hover:scale-105"
