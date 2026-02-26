@@ -16,17 +16,19 @@ export default function Navbar() {
             <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
                 <Link href="/" className="flex items-center gap-3">
                     {/* Logo container */}
-                    <div className="relative w-10 h-10 overflow-hidden rounded-md bg-zinc-100 flex items-center justify-center">
-                        <Image
+                    <div className="relative  overflow-hidden rounded-md  flex items-center justify-center">
+						  {/* <Image
                             src="/logo.jpeg"
                             alt="BUILD Logo"
                             fill
                             className="object-cover"
-                        />
-                    </div>
+                        />*/}
                     <span className="font-bold text-xl tracking-tight text-zinc-900 uppercase">
-                        Build
+                       <span className="rotate-180 text-sm align-baseline" style={{
+									 writingMode: "vertical-lr",
+							  }}>the</span> Build
                     </span>
+						  </div>
                 </Link>
                 <div className="hidden md:flex gap-8 text-sm font-medium text-zinc-600">
                     <Link href="#purpose" className="hover:text-zinc-900 transition-colors">Purpose</Link>
