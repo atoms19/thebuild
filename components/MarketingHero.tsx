@@ -45,7 +45,7 @@ export default function MarketingHero() {
                         className="relative w-full aspect-[4/3] md:aspect-[16/10] rounded-2xl md:rounded-[2rem] overflow-hidden shadow-2xl"
                     >
                         <Image
-                            src="/leadership_talk_1.png"
+                            src="/hero.png"
                             alt="The Build Seminar Auditorium"
                             fill
                             className="object-cover"
