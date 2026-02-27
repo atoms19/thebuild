@@ -24,9 +24,8 @@ export default function Navbar() {
                             className="object-cover"
                         />*/}
                     <span className="font-bold text-xl tracking-tight text-zinc-900 uppercase">
-                       <span className="rotate-180 text-sm align-baseline" style={{
-									 writingMode: "vertical-lr",
-							  }}>the</span> Build
+{/*<span className="rotate-180 text-sm align-baseline" style={{writingMode: "vertical-lr",}}>the</span>*/} 
+      The Build
                     </span>
 						  </div>
                 </Link>
